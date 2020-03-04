@@ -1,3 +1,5 @@
 # git
 
+
 .featureA
+./fixB
