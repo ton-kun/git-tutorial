@@ -3,4 +3,4 @@
 
 .featureA
 ./fixB
-feature-C
+feeture-C
