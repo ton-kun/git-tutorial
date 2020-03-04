@@ -3,4 +3,3 @@
 
 .featureA
 ./fixB
-feature-C
